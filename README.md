@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on picking up the T3 stack.<br>👯 I’m looking to collaborate on TypeScrip projects.<br>🌱 I’m currently learning Prisma, TRPC, Next.js.<br>💬 Ask me about React, tailwind.
+🔭 I’m currently working on picking up the T3 stack.<br>👯 I’m looking to collaborate on TypeScript projects.<br>🌱 I’m currently learning Prisma, TRPC, Next.js.<br>
+💬 Ask me about React, tailwind.
 
 
 ## 🌐 Socials:
